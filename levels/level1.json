@@ -1,0 +1,44 @@
+{
+  "next_level": "level2",
+  "start_pos": {
+    "x": 0,
+    "y": 0
+  },
+  "width": 3,
+  "height": 3,
+  "board": [
+    [
+      {
+        "block": "stone"
+      },
+      {
+        "block": "stone"
+      },
+      {
+        "block": "stone"
+      }
+    ],
+    [
+      {
+        "block": "stone"
+      },
+      {
+        "block": "floor"
+      },
+      {
+        "block": "stone"
+      }
+    ],
+    [
+      {
+        "block": "stone"
+      },
+      {
+        "block": "stone"
+      },
+      {
+        "block": "stone"
+      }
+    ]
+  ]
+}
